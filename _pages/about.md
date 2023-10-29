@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "🖐 Hello, Welcome to Masoud Khalilian's personal page"
+title: "About"
 excerpt: "About me"
 author_profile: true
+page_title: false
 redirect_from:
   - /about/
   - /about.html
 ---
-
-# About Me
 
 I am currently a second-year Master's student in data science and engineering at the [Polytechnic University of Turin](https://www.polito.it/en), with a Bachelor's degree in computer software and professional experience as a software developer. My research interests include machine and deep learning, computer vision, image segmentation, data visualization, and deep natural language processing.
 
